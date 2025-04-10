@@ -12,3 +12,4 @@ fact that an ordered list is numbered
 *Can place emphasis on a word using <em> element, more of an italic. The <strong> does the same but is in bold
 *<form> creates a platform for the user to add information to. you give it an action element to indicate where that said information goes to.
 e.g. <form action="/submit-url"></form>
+Step 12 - 38, 56% completed
