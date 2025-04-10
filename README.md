@@ -12,4 +12,10 @@ fact that an ordered list is numbered
 *Can place emphasis on a word using <em> element, more of an italic. The <strong> does the same but is in bold
 *<form> creates a platform for the user to add information to. you give it an action element to indicate where that said information goes to.
 e.g. <form action="/submit-url"></form>
+*use <input>
+to create the textbox for user info <input> is a void element. Can add an attributes to the <input>. 'Type' determines the way the text box appears
+to the user, 'name' describes the type of information you will be collecting from said textbox, 'placeholder' gives the user hints as to what value to enter,
+'required' makes the input mandatory
+e.g<input type="text" name = "name" placeholder = "Your name" required>.
+
 Step 12 - 38, 56% completed
