@@ -17,5 +17,6 @@ to create the textbox for user info <input> is a void element. Can add an attrib
 to the user, 'name' describes the type of information you will be collecting from said textbox, 'placeholder' gives the user hints as to what value to enter,
 'required' makes the input mandatory
 e.g<input type="text" name = "name" placeholder = "Your name" required>.
-
-Step 12 - 38, 56% completed
+*<button> Self explanatory. The defualt action of clicking a button sends the information to the intended location e.g "/submit-url"
+Add type to button to avoid any mishaps e.g <button type = "submit">
+Step 12 - 45, 63% completed
