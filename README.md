@@ -36,3 +36,4 @@ Step 12 - 45, 63% completed
 *an attribute called "lang" can be added to the html
 *<meta> determines a browsers behaviour
 *<meta charset = "utf-8"> tells the website to encode characters on the page
+Cat Photo App, 100% COMPLETED
