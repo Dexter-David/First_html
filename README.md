@@ -20,3 +20,19 @@ e.g<input type="text" name = "name" placeholder = "Your name" required>.
 *<button> Self explanatory. The defualt action of clicking a button sends the information to the intended location e.g "/submit-url"
 Add type to button to avoid any mishaps e.g <button type = "submit">
 Step 12 - 45, 63% completed
+11 April 2025
+*<input type = "radio">, if you put a <label> on a radio button it will make pressing the radio button press the actual button
+*the attribute "id" helps you uniquely identify elements
+*to stop radio buttons from being selected at the same time/clicking one deslects the other. You give them a "name" attribute and give them the same value
+*If a user wants to submit a form, the form automatically reads whatever is in the "value" attribute, so you give the element a value attribute
+*<fieldset> groups related elements seperately
+*<legend> is used to give a fieldset a heading
+*"checkbox" attribute 
+*void attribute "checked" to make radio or checkbox ticked
+*<footer> element usually contains information about the author of the website
+*Metadata is information about the page that isnt displayed directly on the page like the tite and the style, you put this inside a <head> element
+*<title> is what shows up on the tab for your website
+*<!DOCTYPE html><html><head><body> is the order of your document at the moment
+*an attribute called "lang" can be added to the html
+*<meta> determines a browsers behaviour
+*<meta charset = "utf-8"> tells the website to encode characters on the page
