@@ -37,3 +37,15 @@ Step 12 - 45, 63% completed
 *<meta> determines a browsers behaviour
 *<meta charset = "utf-8"> tells the website to encode characters on the page
 Cat Photo App, 100% COMPLETED
+12 April 2025
+*For CSS, add <style> element to the <head> section
+*In <style> element you can bring up existing values to add changes to them. 
+element {
+ property: value;
+}
+*You can just use comma if you want to apply to same style to multiple things
+*Now you need to link the styles.css file, so the styles will be applied again. Inside the head element, add a link element. Give it a rel attribute with the value of "stylesheet" and an href attribute with the value of "styles.css".
+
+Note that the link element is a void element.
+*Use this code to make the browser adjust to the device the user is on. <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+learn-basic-css-by-building-a-cafe-menu-panel, 21% completed
