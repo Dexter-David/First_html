@@ -49,3 +49,15 @@ element {
 Note that the link element is a void element.
 *Use this code to make the browser adjust to the device the user is on. <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 learn-basic-css-by-building-a-cafe-menu-panel, 21% completed
+13 April 2025
+*use hash to specify an id when using a css
+*use a class attribute instead of an id attribute in a div element for...reasons
+*specify is with dot in css
+*article elements commonly contain multiple elements that have related information.
+*.item p{display:inline-block}
+*{padding-left/right etc} creates borders around something
+*{font-family} changes the font
+*background-image
+*{text-align} moves text
+* a fallback is a failsafe for if the original option isnt found, just use a comma after stating the intented value
+learn-basic-css-by-building-a-cafe-menu-panel, 67% completed
