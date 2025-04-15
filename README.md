@@ -61,3 +61,5 @@ learn-basic-css-by-building-a-cafe-menu-panel, 21% completed
 *{text-align} moves text
 * a fallback is a failsafe for if the original option isnt found, just use a comma after stating the intented value
 learn-basic-css-by-building-a-cafe-menu-panel, 67% completed
+14 April 2025
+learn-basic-css-by-building-a-cafe-menu-panel, 100% completed
