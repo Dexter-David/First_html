@@ -63,3 +63,11 @@ learn-basic-css-by-building-a-cafe-menu-panel, 21% completed
 learn-basic-css-by-building-a-cafe-menu-panel, 67% completed
 14 April 2025
 learn-basic-css-by-building-a-cafe-menu-panel, 100% completed
+15 April 2025
+*You can have multiple meta elements on a web page. Each meta element adds information about the page that cannot be expressed by other HTML elements.
+
+Add another meta element within the head. Give it a name attribute set to "viewport" and a content attribute set to "width=device-width, initial-scale=1.0" so your page looks the same on all devices.
+*Nest a link element within the head element. Give it a rel attribute set to "stylesheet" and an href attribute set to "styles.css".
+*When the shorthand margin property has two values, it sets margin-top and margin-bottom to the first value, and margin-left and margin-right to the second value.
+Learn CSS Colors by Building a Set of Colored Markers
+34% complete
