@@ -71,3 +71,6 @@ Add another meta element within the head. Give it a name attribute set to "viewp
 *When the shorthand margin property has two values, it sets margin-top and margin-bottom to the first value, and margin-left and margin-right to the second value.
 Learn CSS Colors by Building a Set of Colored Markers
 34% complete
+17 April 2025
+* background: linear-gradient(90deg, rgb(255, 0, 0), rgb(0, 255, 0));
+* * background: linear-gradient(90deg, rgb(255, 0, 0) 75%, rgb(0, 255, 0)) to add how much space the color will occupy;
