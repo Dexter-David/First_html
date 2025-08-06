@@ -75,7 +75,12 @@ Learn CSS Colors by Building a Set of Colored Markers
 * background: linear-gradient(90deg, rgb(255, 0, 0), rgb(0, 255, 0));
 * * background: linear-gradient(90deg, rgb(255, 0, 0) 75%, rgb(0, 255, 0)) to add how much space the color will occupy;
 29 April 2025
-*deg specifies gradient direction, without gradient direction it is sorted from top to bottom
-*Opacity describes how opaque, or non-transparent, something is. For example, a solid wall is opaque, and no light can pass through. But a drinking glass is much more transparent, and you can see through the glass to the other side.
 
+*deg specifies gradient direction, without gradient direction it is sorted from top to bottom
+*Opacity describes how opaque, or non-transparent, something is. For example, a solid wall is opaque, and no light can pass through. But a drinking glass is much more transparent, and you can see through the 
+glass to the other side.
+
+
+6 August
+<img width="626" height="485" alt="image" src="https://github.com/user-attachments/assets/c7102fe1-cbbd-4dd4-899b-a92099f76da9" />
 With the CSS opacity property, you can control how opaque or transparent an element is. With the value 0, or 0%, the element will be completely transparent, and at 1.0, or 100%, the element will be completely opaque like it is by default.
