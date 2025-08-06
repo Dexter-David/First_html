@@ -1,0 +1,58 @@
+** start of index.html **
+
+<!DOCTYPE HTML>
+<html lang="en">
+<head>
+  <meta charset="Utf-8">
+  <title>D Survey Form</title>
+  <link rel = "stylesheet" href = "styles.css">
+</head>
+<body>
+  <h1 id = "title">We Care After Care</h1>
+  <p id="description" >Apply for Child AfterCare</p>
+  <form id = "survey-form">
+    <fieldset><label id = "name-label" for="name">Name:<input placeholder="Child Name" id="name" type="text" required></label>
+  <label id = "email-label" for="email">Email:<input placeholder="Parent Email" id="email" type="email" required></label>
+<label id = "number-label" for="number">Age:<input  id="number" placeholder="Age of child" type="number" min=6 max=16 required></label>
+<label>Race of child 
+<select id = "dropdown">
+  <option value="">(Ethnicity)</option>
+  <option value="1">Black</option>
+  <option value="2">White</option>
+  <option value="3">Coloured</option>
+</select>
+</label>
+<label>
+  Gender:
+  <label>Boy<input value= "Idk" name="Gender" type="radio"></label>
+    <label>Girl<input value= "A value" name="Gender" type="radio"></label>
+</label>
+<label>
+  Lunch Included?
+  <label>Yes<input value = "Yes" id = "Yes" name="Lunch" type="checkbox"></label>
+</label>
+<label>No<input value = "No" id = "No" name="Lunch" type="checkbox"></label>
+</label>
+<label>Additional Notes?<textarea placeholder="Child preferences etc." row=5 cols=40></textarea></label>
+  </fieldset>
+  <input id = "submit" type="submit">
+  </form>
+</body>
+</html>
+
+** end of index.html **
+
+** start of styles.css **
+
+h1, p{font-family:Tahoma;color:green;
+margin: 1px 2px; text-align: center;
+border: 1px solid black; padding: 10px}
+p{border:unset; padding:unset;border:5px dotted green; }
+body{background-color:#d69967}
+label{display:block; margin:0.5rem;}
+input{font-family:Georgia}
+input[id="number"]{width:20%}
+input[id="submit"]{color:Blue; boxed-shadow:10px 10px black}
+
+** end of styles.css **
+
